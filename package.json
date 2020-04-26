@@ -1,0 +1,57 @@
+{
+  "_from": "git+ssh://git@github.com/cladjules/react-native-boundary.git",
+  "_id": "react-native-boundary@1.0.4",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-boundary",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-boundary@git+ssh://git@github.com/cladjules/react-native-boundary.git",
+    "name": "react-native-boundary",
+    "escapedName": "react-native-boundary",
+    "rawSpec": "git+ssh://git@github.com/cladjules/react-native-boundary.git",
+    "saveSpec": "git+ssh://git@github.com/cladjules/react-native-boundary.git",
+    "fetchSpec": "ssh://git@github.com/cladjules/react-native-boundary.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/cladjules/react-native-boundary.git#c2f2e24fb37d96dd45829c8fa0783b100c9a6df2",
+  "_spec": "react-native-boundary@git+ssh://git@github.com/cladjules/react-native-boundary.git",
+  "_where": "/Users/julienatanasyan/newcross/app1rn",
+  "author": {
+    "name": "Edward Owens"
+  },
+  "bugs": {
+    "url": "https://github.com/eddieowens/react-native-boundary/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "native geofencing and region monitoring",
+  "homepage": "https://github.com/eddieowens/react-native-boundary#readme",
+  "keywords": [
+    "react-native",
+    "geofence",
+    "boundary",
+    "ios",
+    "android",
+    "location",
+    "region monitoring"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "react-native-boundary",
+  "peerDependencies": {
+    "react-native": ">0.49.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddieowens/react-native-boundary.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
